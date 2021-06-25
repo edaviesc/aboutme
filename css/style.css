@@ -1,0 +1,131 @@
+@media only screen and (max-width: 500px) {
+    .masthead {
+        padding: 3em 0;
+    }
+    .masthead-heading {
+        font-size: 3em;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .social {
+       font-size: 1em;
+    }
+    
+}
+
+body {
+    /* Typography Declarations */
+    color: #222222;
+    font-size: 1em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.masthead-heading, 
+.masthead-intro, 
+.content-footer > p,
+.social {
+  /* Typography Declrations */
+  text-align: center;
+}
+
+.masthead {
+  /* Appearance Declarations */
+  padding: 6em;
+  background-image: url('http://i.imgur.com/9vKOwzr.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-top: solid 1em #cc9933;
+  color: #ffffff;
+ }
+
+a {
+	/* Typography Declrations */
+	font-weight: normal;
+	text-decoration: none;
+	color: #FFCF33;
+}
+
+a:hover {
+	/* Tyopography Declarations */
+	color: #FFE799;
+}
+
+a:visited {
+	/* Typography Declarations */
+	color: #cc9933;
+}
+
+.masthead,
+.introduction,
+.location,
+.questions,
+.content-footer {
+    /* Layout Declarations */
+    padding-right: 2em;
+	  padding-left: 2em;
+}
+
+.content-footer {
+    /* Layout Declarations */
+    margin-top: 5em;
+	  padding: 4em 0;
+     background-color: #594F49;
+}
+
+.masthead-intro {
+  /* Layout Declarations */
+    margin-bottom: 0.1em;
+    font-family: "Gentium Book  Basic", Georgia, serif;
+    font-size: 2em;
+}
+
+.masthead-heading {
+    margin-top: -0.2em;
+    font-family: "Open Sans", "Helvetica Neue", sans
+      serif;
+    font-weight: bold;
+    font-size: 6em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    text-shadow: 0px 3px 0px #FFCF33;
+}
+
+.introduction-section,
+.location-section,
+.questions-section {
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+}
+
+.social > li {
+    display: inline-block;
+    margin-right: 1em;
+}
+
+.social > li:last-child {
+    margin-right: 0em;
+}
+   
+.content-footer > p {
+ color: #000000;
+}
+.social {
+ padding: 0em;
+}
+
+.introduction > p, 
+.location > p,
+.content-footer > p {
+    /* Typography Declarations */
+    font-weight: 300;
+    letter-spacing: 0.05em;
+}
+.questions-section > h2 {
+    /* Typography Declarations */
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+}
