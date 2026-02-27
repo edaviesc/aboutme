@@ -70,3 +70,28 @@ aboutme/
 ├── style.css
 ├── aboutme.jpg
 └── README.md
+
+---
+
+## 🚀 Purpose of This Project
+
+This project demonstrates:
+
+- Clean semantic HTML structure  
+- Basic layout styling with CSS  
+- Personal branding through web design  
+- Ability to deploy using GitHub Pages  
+
+---
+
+## 📬 Connect With Me
+
+- GitHub  
+- Twitter  
+- Pinterest  
+
+---
+
+## 📄 License
+
+This project is open-source and available for learning and educational purposes.
