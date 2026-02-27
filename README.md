@@ -62,6 +62,8 @@ Location information (Washington, DC).
 ---
 
 ## 📂 Project Structure
+
+```plaintext
 aboutme/
 │
 ├── index.html
